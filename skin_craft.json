@@ -2,7 +2,7 @@
 	"Ads":
   [
     {
-      "status":"0",
+      "status":"1",
       "link":"https://raw.githubusercontent.com/telagakautsar/json/main/skin_craft.json",
       "pengaturan_iklan":"1",
       "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
