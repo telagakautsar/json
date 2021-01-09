@@ -4,11 +4,11 @@
     "AIRCRAFT"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-2645249444311791",
-  "app_id": "ca-app-pub-2645249444311791~4831851906",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -20,11 +20,11 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "mopub_banner_id": "",
-  "mopub_interstitial_id": "",
-  "mopub_native_id": "",
+  "mopub_banner_id": "b195f8dd8ded45fe847ad89ed1d016da",
+  "mopub_interstitial_id": "24534e1901884e398f1253216226017e",
+  "mopub_native_id": "11a17b188668469fb0412708c3d16813",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
