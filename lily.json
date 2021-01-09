@@ -1,0 +1,35 @@
+{
+  "username": "kusnadiisok",
+  "album": [
+    "LILY"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "mopub_banner_id": "b195f8dd8ded45fe847ad89ed1d016da",
+  "mopub_interstitial_id": "24534e1901884e398f1253216226017e",
+  "mopub_native_id": "11a17b188668469fb0412708c3d16813",
+
+  "interstitial_inverval": 5,
+
+  "primary_ads": "MOPUB",
+  "list_ads": [
+    "MOPUB",
+    "ADMOB",
+    "FAN"
+  ]
+}
