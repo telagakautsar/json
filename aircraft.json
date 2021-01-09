@@ -26,7 +26,7 @@
 
   "interstitial_inverval": 5,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "MOPUB",
   "list_ads": [
     "MOPUB",
     "ADMOB",
