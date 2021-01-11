@@ -1,14 +1,14 @@
 {
-  "username": "ibang23",
+  "username": "kusnadiisok",
   "album": [
-    "Cat", "Green Nature"
+    "REDROSE", "BLACKROSE", "GOLDROSE", "YELLOWROSE"
   ],
-  "init_jumlah_photo": 100,
-  "pub_id": "pub-2645249444311791",
-  "app_id": "ca-app-pub-2645249444311791~4831851906",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "init_jumlah_photo": 200,
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -20,13 +20,13 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "mopub_banner_id": "",
-  "mopub_interstitial_id": "",
-  "mopub_native_id": "",
+  "mopub_banner_id": "bd2aa8dfc78f428cab43265ab9c89436",
+  "mopub_interstitial_id": "5a66944b65b649f7906077b5f3c06af8",
+  "mopub_native_id": "27a6551ef0024c4b8a4f276f2ee4e489",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 5,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "MOPUB",
   "list_ads": [
     "MOPUB",
     "ADMOB",
