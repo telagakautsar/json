@@ -1,0 +1,35 @@
+{
+  "username": "kusnadiisok",
+  "album": [
+    "MECCA"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-2645249444311791",
+  "app_id": "ca-app-pub-2645249444311791~4831851906",
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "mopub_banner_id": "bf417c60932040d287bafa492adcbfa4",
+  "mopub_interstitial_id": "dce7f9d00fcb4d3fa201587d4fb20656",
+  "mopub_native_id": "e225124b5f2043398e4a50273703fbd1",
+
+  "interstitial_inverval": 4,
+
+  "primary_ads": "MOPUB",
+  "list_ads": [
+    "MOPUB",
+    "ADMOB",
+    "FAN"
+  ]
+}
