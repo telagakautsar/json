@@ -24,7 +24,7 @@
   "mopub_interstitial_id": "644597182abd4006a0f69aec8ca5ae54",
   "mopub_native_id": "dcb504bfb2ff4d6b8aee553ea8939841",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 5,
 
   "primary_ads": "MOPUB",
   "list_ads": [
