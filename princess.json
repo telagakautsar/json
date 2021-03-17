@@ -1,0 +1,75 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Princess 1",
+      "image":"https://cldup.com/wP_leI917x.jpg"
+    },
+    {
+      "title": "Princess 2",
+      "image": "https://cldup.com/lS2my7jJhX.jpg"
+    },
+    {
+      "title":"Princess 3",
+      "image":"https://cldup.com/VEbBJYwzum.jpg"
+    },
+    {
+      "title":"Princess 4",
+      "image":"https://cldup.com/Rz_Z3K02q1.jpg"
+    },
+    {
+      "title":"Princess 5",
+      "image":"https://cldup.com/U7UeCPD_Ve.jpg"
+    },
+    {
+      "title":"Princess 6",
+      "image":"https://cldup.com/IH7bZsnEIf.jpg"
+    },
+	
+	{
+      "title":"Princess 6",
+      "image":"https://cldup.com/IH7bZsnEIf.jpg"
+    },
+	
+	{
+      "title":"Princess 7",
+      "image":"https://cldup.com/QxHS89ZKGJ.jpg"
+    },
+	
+	{
+      "title":"Princess 8",
+      "image":"https://cldup.com/LFMI6kRcSE.jpg"
+    },
+	
+	{
+      "title":"Princess 9",
+      "image":"https://cldup.com/tiXiiuzerb.jpg"
+    },
+	
+	{
+      "title":"Princess 10",
+      "image":"https://cldup.com/4q2jWO5opg.jpg"
+    }
+	
+  ]
+
+}
