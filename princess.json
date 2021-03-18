@@ -7,14 +7,14 @@
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
-      "select_ads":"KIDOZ",
-      "interval":"5",
+      "select_ads":"",
+      "interval":"",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
       "startappid":""   ,
-      "kidoz_pub_id":"14528",
-      "kidoz_token":"udZZ3AKa6CDOwDzw4XtYnPJs6CA7CEIZ"
+      "kidoz_pub_id":"",
+      "kidoz_token":""
     }
   ],
  
@@ -44,7 +44,12 @@
       "title":"Princess 6",
       "image":"https://cldup.com/IH7bZsnEIf.jpg"
     },
-			
+	
+	{
+      "title":"Princess 6",
+      "image":"https://cldup.com/IH7bZsnEIf.jpg"
+    },
+	
 	{
       "title":"Princess 7",
       "image":"https://cldup.com/QxHS89ZKGJ.jpg"

@@ -1,0 +1,86 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Mermaid 1",
+      "image":"https://cldup.com/uKOJm6QU_1.jpg"
+    },
+    {
+      "title": "Mermaid 2",
+      "image": "https://cldup.com/mCSucVCpfK.jpg"
+    },
+    {
+      "title":"Mermaid 3",
+      "image":"https://cldup.com/cehJl8Q2a7.jpg"
+    },
+    {
+      "title":"Mermaid 4",
+      "image":"https://cldup.com/bS1yaffTOw.jpg"
+    },
+    {
+      "title":"Mermaid 5",
+      "image":"https://cldup.com/czOnc42DVg.jpg"
+    },
+    {
+      "title":"Mermaid 6",
+      "image":"https://cldup.com/to3SskiJJ4.jpg"
+    },
+	
+	{
+      "title":"Mermaid 7",
+      "image":"https://cldup.com/6ySn_HIWJy.jpg"
+    },
+	
+	{
+      "title":"Mermaid 8",
+      "image":"https://cldup.com/-p3B6Hc6fC.jpg"
+    },
+	
+	{
+      "title":"Mermaid 9",
+      "image":"https://cldup.com/ru9qF7-0D9.jpg"
+    },
+	
+	{
+      "title":"Mermaid 10",
+      "image":"https://cldup.com/Xa8VgG6eBe.jpg"
+    },
+	
+	{
+      "title":"Mermaid 11",
+      "image":"https://cldup.com/btl_yLQucm.jpg"
+    },
+	{
+      "title":"Mermaid 12",
+      "image":"https://cldup.com/mevWSbEJ9U.jpg"
+    },
+	{
+      "title":"Mermaid 13",
+      "image":"https://cldup.com/i0spOnVxlm.jpg"
+    },
+	{
+      "title":"Mermaid 14",
+      "image":"https://cldup.com/Psfce9KcH5.jpg"
+    }
+  ]
+
+}
