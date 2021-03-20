@@ -1,0 +1,71 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Funkin 1",
+      "image":"https://cldup.com/gdCjQmo17J.jpg"
+    },
+    {
+      "title": "Funkin 2",
+      "image": "https://cldup.com/fwLu2RseGZ.jpg"
+    },
+    {
+      "title":"Funkin 3",
+      "image":"https://cldup.com/_lrCTr4ens.jpg"
+    },
+    {
+      "title":"Funkin 4",
+      "image":"https://cldup.com/fx805Ikfjm.jpg"
+    },
+    {
+      "title":"Funkin 5",
+      "image":"https://cldup.com/NKmNIXDmdY.jpg"
+    },
+    {
+      "title":"Funkin 6",
+      "image":"https://cldup.com/FkKslzdlkq.jpg"
+    },
+	
+	{
+      "title":"Funkin 7",
+      "image":"https://cldup.com/JbDvR5sHCs.jpg"
+    },
+	
+		
+	{
+      "title":"Funkin 8",
+      "image":"https://cldup.com/WNMO7tTYfG.jpg"
+    },
+	
+	{
+      "title":"Funkin 9",
+      "image":"https://cldup.com/UfrtS0Xjgi.jpg"
+    },
+	
+	{
+      "title":"Funkin 10",
+      "image":"https://cldup.com/Fx-wMPMQUQ.jpg"
+    }
+	
+  ]
+
+}
