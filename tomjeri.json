@@ -1,0 +1,61 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Tom&Jery 1",
+      "image":"https://cldup.com/nP5C6UeE1n.jpg"
+    },
+    {
+      "title": "Tom&Jery 2",
+      "image": "https://cldup.com/VtYiyV1Ids.jpg"
+    },
+    {
+      "title":"Tom&Jery 3",
+      "image":"https://cldup.com/QTZaBKPvod.jpg"
+    },
+    {
+      "title":"Tom&Jery 4",
+      "image":"https://cldup.com/Uf5ra9fP_V.jpg"
+    },
+    {
+      "title":"Tom&Jery 5",
+      "image":"https://cldup.com/dGN6kXzvoD.jpg"
+    },
+    {
+      "title":"Tom&Jery 6",
+      "image":"https://cldup.com/TVptE7ZUzB.jpg"
+    },
+	
+	{
+      "title":"Tom&Jery 7",
+      "image":"https://cldup.com/JXTPNQyS09.jpg"
+    },
+	
+		
+	{
+      "title":"Tom&Jery 8",
+      "image":"https://cldup.com/qG_qoi0jfU.jpg"
+    }
+	
+  ]
+
+}
