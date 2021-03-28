@@ -1,0 +1,71 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Fantasy Girl 1",
+      "image":"https://cldup.com/h5WPPsUla7.jpg"
+    },
+    {
+      "title": "Fantasy Girl 2",
+       "image":"https://cldup.com/XHr_zMjG6J.jpg"
+    },
+    {
+      "title":"Fantasy Girl 3",
+       "image":"https://cldup.com/0T1wgK1SRB.jpg"
+    },
+    {
+      "title":"Fantasy Girl 4",
+       "image":"https://cldup.com/XYUHXtaqql.jpg"
+    },
+    {
+      "title":"Fantasy Girl 5",
+      "image":"https://cldup.com/eyZBdYF6A2.jpg"
+    },
+    {
+      "title":"Fantasy Girl 6",
+       "image":"https://cldup.com/00vyFVJtng.jpg"
+    },
+	
+	
+	{
+      "title":"Fantasy Girl 7",
+       "image":"https://cldup.com/nnz4lxLLxa.jpg"
+    },
+	
+	{
+      "title":"Fantasy Girl 8",
+       "image":"https://cldup.com/zFApXMMIgP.jpg"
+    },
+	
+	{
+      "title":"Fantasy Girl 9",
+       "image":"https://cldup.com/33CB20vTmL.jpg"
+    },
+	
+	{
+      "title":"Fantasy Girl 10",
+       "image":"https://cldup.com/6zC20MnZ99.jpg"
+    }
+	
+  ]
+
+}
