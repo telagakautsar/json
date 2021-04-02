@@ -4,15 +4,15 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"ca-app-pub-7251705005287196/6986653909",
-      "admob_banner":"ca-app-pub-7251705005287196/9396167151",
-      "admob_open_ads":"ca-app-pub-7251705005287196/9421245556",
-      "select_ads":"ADMOB",
-      "interval":"5",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"STARTAPP",
+      "interval":"",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
-      "startappid":""   ,
+      "startappid":"202059326"   ,
       "kidoz_pub_id":"",
       "kidoz_token":""
     }
