@@ -1,0 +1,32 @@
+{
+  "username": "kusnadiisok",
+  "album": [
+    "Ladybug","Lady"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-1799410780853043",
+  "app_id": "ca-app-pub-1799410780853043~3189705665",
+  "admob_banner_id": "ca-app-pub-1799410780853043/3928072264",
+  "admob_interstitial_id": "ca-app-pub-1799410780853043/1110337236",
+  "admob_native_id": "ca-app-pub-1799410780853043/9918765549",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "startapp_app_id": "abcdasd",
+
+  "interstitial_inverval": 10,
+
+  "list_ads": [
+    "STARTAPP",
+    "ADMOB",
+    "FAN"
+  ]
+}
