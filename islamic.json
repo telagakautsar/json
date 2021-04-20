@@ -7,11 +7,11 @@
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
-      "select_ads":"ADMOB",
+      "select_ads":"UNITY",
       "interval":"",
-      "unityID":"",
-      "unity_banner":"",
-      "unity_inter":"",
+      "unityID":"4096632",
+      "unity_banner":"BANER",
+      "unity_inter":"INSERTIAL",
       "startappid":""   ,
       "kidoz_pub_id":"",
       "kidoz_token":""
@@ -21,44 +21,167 @@
   "Data":
   [
     {
-      "title":"Puzzle 1",
+      "title":"Islamic Puzzle 1",
       "image":"https://cldup.com/GZwnYn7hM5.jpg"
     },
-    {
-      "title": "Puzzle 2",
+{
+      "title":"Islamic Puzzle 2",
       "image":"https://cldup.com/Vr5wux43Ce.jpg"
     },
-    {
-      "title":"Puzzle 3",
-       "image":"https://cldup.com/hZMRkxdWgJ.jpg"
+{
+      "title":"Islamic Puzzle 3",
+      "image":"https://cldup.com/hZMRkxdWgJ.jpg"
     },
-    {
-      "title":"Puzzle 4",
-        "image":"https://cldup.com/jS2FAa1x1f.jpg"
+{
+      "title":"Islamic Puzzle 4",
+      "image":"https://cldup.com/jS2FAa1x1f.jpg"
     },
-    {
-      "title":"Puzzle 5",
+{
+      "title":"Islamic Puzzle 5",
       "image":"https://cldup.com/p_henMOLgy.jpg"
     },
-    {
-      "title":"Puzzle 6",
-        "image":"https://cldup.com/ARUmu2ZcDl.jpg"
+{
+      "title":"Islamic Puzzle 6",
+      "image":"https://cldup.com/ARUmu2ZcDl.jpg"
     },
-	{
-      "title":"Puzzle 7",
-        "image":"https://cldup.com/vFscPwiFkj.jpg"
+{
+      "title":"Islamic Puzzle 7",
+      "image":"https://cldup.com/vFscPwiFkj.jpg"
     },
-	{
-      "title":"Puzzle 8",
-        "image":"https://cldup.com/PtdDKZ13o4.jpg"
+{
+      "title":"Islamic Puzzle 8",
+      "image":"https://cldup.com/PtdDKZ13o4.jpg"
     },
-	{
-      "title":"Puzzle 9",
-        "image":"https://cldup.com/Yg9RAzDe_7.jpg"
+{
+      "title":"Islamic Puzzle 9",
+      "image":"https://cldup.com/Yg9RAzDe_7.jpg"
     },
-	{
-      "title":"Puzzle 10",
-        "image":"https://cldup.com/0WwtSHRxwT.jpg"
+{
+      "title":"Islamic Puzzle 10",
+      "image":"https://cldup.com/0WwtSHRxwT.jpg"
+    },
+{
+      "title":"Islamic Puzzle 11",
+      "image":"https://cldup.com/LZ9s8uPTmw.jpg"
+    },
+{
+      "title":"Islamic Puzzle 12",
+      "image":"https://cldup.com/iXNlnpHmoE.jpg"
+    },
+{
+      "title":"Islamic Puzzle 13",
+      "image":"https://cldup.com/g4_BBEMagf.jpg"
+    },
+
+{
+      "title":"Islamic Puzzle 14",
+      "image":"https://cldup.com/EI0q1_5oJN.jpg"
+    },
+{
+      "title":"Islamic Puzzle 15",
+      "image":"https://cldup.com/fGmqPrBFsL.jpg"
+    },
+{
+      "title":"Islamic Puzzle 16",
+      "image":"https://cldup.com/MEClV6oNdt.jpg"
+    },
+{
+      "title":"Islamic Puzzle 17",
+      "image":"https://cldup.com/UCyhzGskF4.jpg"
+    },
+{
+      "title":"Islamic Puzzle 18",
+      "image":"https://cldup.com/G9rsoqn8tQ.jpg"
+    },
+{
+      "title":"Islamic Puzzle 19",
+      "image":"https://cldup.com/96UUKqrBKJ.jpg"
+    },
+{
+      "title":"Islamic Puzzle 20",
+      "image":"https://cldup.com/FRUyIZsupN.jpg"
+    },
+{
+      "title":"Islamic Puzzle 21",
+      "image":"https://cldup.com/Q7qkp_qRC6.jpg"
+    },
+{
+      "title":"Islamic Puzzle 22",
+      "image":"https://cldup.com/fNj3m3Cxx2.jpg"
+    },
+{
+      "title":"Islamic Puzzle 23",
+      "image":"https://cldup.com/-uwqo0071b.jpg"
+    },
+{
+      "title":"Islamic Puzzle 24",
+      "image":"https://cldup.com/HGxb7UcldX.jpg"
+    },
+{
+      "title":"Islamic Puzzle 25",
+      "image":"https://cldup.com/_4lcrubgOS.jpg"
+    },
+{
+      "title":"Islamic Puzzle 26",
+      "image":"https://cldup.com/w6V7B0KQdw.jpg"
+    },
+{
+      "title":"Islamic Puzzle 27",
+      "image":"https://cldup.com/2VBFDymqjc.jpg"
+    },
+{
+      "title":"Islamic Puzzle 28",
+      "image":"https://cldup.com/FeMEzLijkL.jpg"
+    },
+{
+      "title":"Islamic Puzzle 29",
+      "image":"https://cldup.com/u-jG7dtzVh.jpg"
+    },
+{
+      "title":"Islamic Puzzle 30",
+      "image":"https://cldup.com/Kt09wZNJg2.jpg"
+    },
+{
+      "title":"Islamic Puzzle 31",
+      "image":"https://cldup.com/J6NtkxhGTD.jpg"
+    },
+{
+      "title":"Islamic Puzzle 32",
+      "image":"https://cldup.com/EAeXz7ZS9c.jpg"
+    },
+
+{
+      "title":"Islamic Puzzle 33",
+      "image":"https://cldup.com/E74fGmR7Oc.jpg"
+    },
+
+{
+      "title":"Islamic Puzzle 34",
+      "image":"https://cldup.com/PNLg7Bilbb.jpg"
+    },
+{
+      "title":"Islamic Puzzle 35",
+      "image":"https://cldup.com/8jTJPNKcVN.jpg"
+    },
+{
+      "title":"Islamic Puzzle 36",
+      "image":"https://cldup.com/686mzLhYmd.jpg"
+    },
+{
+      "title":"Islamic Puzzle 37",
+      "image":"https://cldup.com/4cBOWgOXtE.jpg"
+    },
+{
+      "title":"Islamic Puzzle 38",
+      "image":"https://cldup.com/ESQrgcGnQL.jpg"
+    },
+{
+      "title":"Islamic Puzzle 39",
+      "image":"https://cldup.com/m61IbP1PbP.jpg"
+    },
+{
+      "title":"Islamic Puzzle 40",
+      "image":"https://cldup.com/vLJw8QOoYG.jpg"
     }
 		
 		
