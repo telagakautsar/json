@@ -1,0 +1,70 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Germany 1",
+      "image":"https://cldup.com/BtWDN4wYtf.jpg"
+    },
+    {
+      "title": "Germany 2",
+     "image":"https://cldup.com/xrcq3FtnlP.jpg"
+    },
+    {
+      "title":"Germany 3",
+      "image":"https://cldup.com/5obIc-1-q0.jpg"
+    },
+    {
+      "title":"Germany 4",
+      "image":"https://cldup.com/z8gFoZ3TdA.jpg"
+    },
+    {
+      "title":"Germany 5",
+      "image":"https://cldup.com/HQ2sLMVdS9.jpg"
+    },
+    {
+      "title":"Germany 6",
+      "image":"https://cldup.com/2O2OKGDm31.jpg"
+    },
+		
+	{
+      "title":"Germany 7",
+      "image":"https://cldup.com/zxxczLwnKt.jpg"
+    },
+	
+	{
+      "title":"Germany 8",
+      "image":"https://cldup.com/utctuuibbb.jpg"
+    },
+	
+	{
+      "title":"Germany 9",
+      "image":"https://cldup.com/HpMhzrh77d.jpg"
+    },
+	
+	{
+      "title":"Germany 10",
+      "image":"https://cldup.com/tOq5aWOHJF.jpg"
+    }
+	
+  ]
+
+}
