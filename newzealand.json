@@ -1,0 +1,70 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"New Zealand 1",
+      "image":"https://cldup.com/S7IvJ488lx.jpg"
+    },
+    {
+      "title": "New Zealand 2",
+     "image":"https://cldup.com/QDj6DLKFZR.jpg"
+    },
+    {
+      "title":"New Zealand 3",
+      "image":"https://cldup.com/EYSBctwnd2.jpg"
+    },
+    {
+      "title":"New Zealand 4",
+      "image":"https://cldup.com/I-C4OHwg6N.jpg"
+    },
+    {
+      "title":"New Zealand 5",
+      "image":"https://cldup.com/48yP3pLZMP.jpg"
+    },
+    {
+      "title":"New Zealand 6",
+      "image":"https://cldup.com/KTTZDisN6O.jpg"
+    },
+		
+	{
+      "title":"New Zealand 7",
+      "image":"https://cldup.com/SweB9cAHnv.jpg"
+    },
+	
+	{
+      "title":"New Zealand 8",
+      "image":"https://cldup.com/qK5j6bx-ux.jpg"
+    },
+	
+	{
+      "title":"New Zealand 9",
+      "image":"https://cldup.com/VHBZt85M5o.jpg"
+    },
+	
+	{
+      "title":"New Zealand 10",
+      "image":"https://cldup.com/M8S1eeWrVC.jpg"
+    }
+	
+  ]
+
+}
