@@ -1,0 +1,70 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Japanese Anime",
+      "image":"https://cldup.com/oNADrea1Db.jpg"
+    },
+    {
+      "title": "Japanese Anime",
+     "image":"https://cldup.com/adhJ9-Zm7F.jpg"
+    },
+    {
+      "title":"Japanese Anime",
+      "image":"https://cldup.com/Du_m6HW7NV.jpg"
+    },
+    {
+      "title":"Japanese Anime",
+      "image":"https://cldup.com/tJ9-951Eqk.jpg"
+    },
+    {
+      "title":"Japanese Anime",
+      "image":"https://cldup.com/hJaNVsk_VI.jpg"
+    },
+    {
+      "title":"Japanese Anime",
+      "image":"https://cldup.com/z-E7ZZy4EJ.jpg"
+    },
+		
+	{
+      "title":"Japanese Anime",
+      "image":"https://cldup.com/SM2DFImf_2.jpg"
+    },
+	
+	{
+      "title":"Japanese Anime",
+      "image":"https://cldup.com/i4hoX6tQSr.jpg"
+    },
+	
+	{
+      "title":"Japanese Anime",
+      "image":"https://cldup.com/y3t-I32K-c.jpg"
+    },
+	
+	{
+      "title":"Japanese Anime",
+      "image":"https://cldup.com/4_9-73tPiD.jpg"
+    }
+	
+  ]
+
+}
