@@ -7,12 +7,12 @@
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
-      "select_ads":"UNITY",
-      "interval":"",
-      "unityID":"4056933",
-      "unity_banner":"banerprinces",
-      "unity_inter":"insertialprinces",
-      "startappid":""   ,
+      "select_ads":"STARTAPP",
+      "interval":"3",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":"204634653",
       "kidoz_pub_id":"",
       "kidoz_token":""
     }
@@ -188,15 +188,8 @@
 	  {
       "title":"Princess 40",
       "image":"https://cldup.com/KUgRZA9qYJ.jpg"
-    },
-	  {
-      "title":"Princess 10",
-      "image":"https://cldup.com/4q2jWO5opg.jpg"
-    },
-	  {
-      "title":"Princess 10",
-      "image":"https://cldup.com/4q2jWO5opg.jpg"
     }
+	  
 	
   ]
 
