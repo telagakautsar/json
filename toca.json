@@ -1,0 +1,75 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Toca 1",
+      "image":"https://cldup.com/kt8Fp4HJjp.jpg"
+    },
+    
+	{
+      "title":"Toca 2",
+         "image":"https://cldup.com/0J2iX-6hGl.jpg"
+    },
+	
+	{
+      "title":"Toca 3",
+         "image":"https://cldup.com/dN7RZ6oT1n.jpg"
+    },
+	
+	{
+      "title":"Toca 4",
+         "image":"https://cldup.com/UWiGyQWvDM.jpg"
+    },
+	
+	{
+      "title":"Toca 5",
+         "image":"https://cldup.com/fxHdfBKbsJ.jpg"
+    },
+	
+	{
+      "title":"Toca 6",
+         "image":"https://cldup.com/rTC_Ftac5f.jpg"
+    },
+	
+	{
+      "title":"Toca 7",
+         "image":"https://cldup.com/RIRaKhqKEU.jpg"
+    },
+	
+	{
+      "title":"Toca 8",
+         "image":"https://cldup.com/RCttYiRG11.jpg"
+    },
+	
+	{
+      "title":"Toca 9",
+         "image":"https://cldup.com/hCl08pf5kT.jpg"
+    },
+	
+	{
+      "title":"Toca 10",
+         "image":"https://cldup.com/ppm21FBWpC.jpg"
+    }
+	
+  ]
+
+}
