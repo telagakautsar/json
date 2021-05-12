@@ -1,0 +1,69 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Puzzle 1",
+	  "image":"https://cldup.com/ZQiXPqWBOn.jpg"
+     },
+    
+	{
+      "title":"Puzzle 2",
+      "image":"https://cldup.com/HjG3exOJ7K.jpg"
+    },
+	
+	{
+      "title":"Puzzle 3",
+      "image":"https://cldup.com/FFBcRfw5BE.jpg"
+    },
+	
+	{
+      "title":"Puzzle 4",
+      "image":"https://cldup.com/aHnWxFIz4u.jpg"
+    },
+	
+	{
+      "title":"Puzzle 5",
+      "image":"https://cldup.com/mtjhPlwupY.jpg"
+    },
+	{
+      "title":"Puzzle 6",
+      "image":"https://cldup.com/Zb-wL3Gli6.jpg"
+    },
+	{
+      "title":"Puzzle 7",
+      "image":"https://cldup.com/-AYQi1LSPH.jpg"
+    },
+	{
+      "title":"Puzzle 8",
+      "image":"https://cldup.com/T0iLH2CO6q.jpg"
+    },
+	{
+      "title":"Puzzle 9",
+      "image":"https://cldup.com/_TOOjg0XA1.jpg"
+    },
+	{
+      "title":"Puzzle 10",
+     "image":"https://cldup.com/4jaaYt4fY4.jpg"
+    }
+  ]
+
+}
