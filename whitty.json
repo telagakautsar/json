@@ -1,0 +1,75 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Whitty 1",
+      "image":"https://cldup.com/9_om92PA3b.jpg"
+    },
+    
+	{
+      "title":"Whitty 2",
+         "image":"https://cldup.com/eHC3XLgCCN.jpg"
+    },
+	
+	{
+      "title":"Whitty 3",
+         "image":"https://cldup.com/smCt8ujG1A.jpg"
+    },
+	
+	{
+      "title":"Whitty 4",
+         "image":"https://cldup.com/-7SI1DEvG0.jpg"
+    },
+	
+	{
+      "title":"Whitty 5",
+         "image":"https://cldup.com/s1wdz_NyUH.jpg"
+    },
+	
+	{
+      "title":"Whitty 6",
+          "image":"https://cldup.com/JhLPG3bY0l.jpg"
+    },
+	
+	{
+      "title":"Whitty 7",
+          "image":"https://cldup.com/ma7GbAs2Nu.jpg"
+    },
+	
+	{
+      "title":"Whitty 8",
+          "image":"https://cldup.com/qmSwxlgPQO.jpg"
+    },
+	
+	{
+      "title":"Whitty 9",
+          "image":"https://cldup.com/-Wsm6ufhEB.jpg"
+    },
+	
+	{
+      "title":"Whitty 10",
+          "image":"https://cldup.com/N5VSd_i_Dx.jpg"
+    }
+	
+  ]
+
+}
