@@ -3,12 +3,12 @@
   "album": [
     "Little", "Night","Mare"
   ],
-  "init_jumlah_photo": 100,
-  "pub_id": "pub-1799410780853043",
-  "app_id": "ca-app-pub-1799410780853043~3189705665",
-  "admob_banner_id": "ca-app-pub-1799410780853043/3928072264",
-  "admob_interstitial_id": "ca-app-pub-1799410780853043/1110337236",
-  "admob_native_id": "ca-app-pub-1799410780853043/9918765549",
+  "init_jumlah_photo": 150,
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
