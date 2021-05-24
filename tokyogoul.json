@@ -1,0 +1,71 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Tokyo Ghoul 1",
+      "image":"https://cldup.com/ebHZ_vFk24.jpg"
+    },
+    {
+      "title": "Tokyo Ghoul 2",
+      "image":"https://cldup.com/YgW4gFqogg.jpg"
+    },
+    {
+      "title":"Tokyo Ghoul 3",
+       "image":"https://cldup.com/-rqe278u2R.jpg"
+    },
+    {
+      "title":"Tokyo Ghoul 4",
+      "image":"https://cldup.com/8Lg4xGPBMD.jpg"
+    },
+    {
+      "title":"Tokyo Ghoul 5",
+     "image":"https://cldup.com/XANuoWCDDa.jpg"
+    },
+    {
+      "title":"Tokyo Ghoul 6",
+       "image":"https://cldup.com/ml30_y0DIF.jpg"
+    },
+	
+	{
+      "title":"Tokyo Ghoul 7",
+      "image":"https://cldup.com/3TKUuIHNzP.jpg"
+    },
+	
+		
+	{
+      "title":"Tokyo Ghoul 8",
+      "image":"https://cldup.com/j-BniNFrT7.jpg"
+    },
+	
+	{
+      "title":"Tokyo Ghoul 9",
+       "image":"https://cldup.com/bcKdmyc--v.jpg"
+    },
+	
+	{
+      "title":"Tokyo Ghoul 10",
+       "image":"https://cldup.com/1j9fuBDUIO.jpg"
+    }
+	
+  ]
+
+}
