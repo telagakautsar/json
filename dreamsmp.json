@@ -1,0 +1,51 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Dream 1",
+      "image":"https://cldup.com/_DOJ6y6SqX.jpg"
+    },
+    
+	{
+      "title":"Dream 2",
+      "image":"https://cldup.com/b5TzKPf_1S.jpg"
+    },
+	{
+      "title":"Dream 3",
+      "image":"https://cldup.com/FuY8KAcE-4.jpg"
+    },
+	{
+      "title":"Dream 4",
+      "image":"https://cldup.com/jbFX6Jw7Dz.jpg"
+    },
+	{
+      "title":"Dream 5",
+      "image":"https://cldup.com/PbXeep0JMP.jpg"
+    },
+	{
+      "title":"Dream 6",
+      "image":"https://cldup.com/Lg7BzWgreD.jpg"
+    }
+	
+  ]
+
+}
