@@ -1,0 +1,71 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Sumo 1",
+      "image":"https://cldup.com/4lhOfqnh9c.jpg"
+    },
+    {
+      "title": "Sumo 2",
+      "image":"https://cldup.com/voStJ7Amgk.jpg"
+    },
+    {
+      "title":"Sumo 3",
+       "image":"https://cldup.com/K8XP5TZ26l.jpg"
+    },
+    {
+      "title":"Sumo 4",
+      "image":"https://cldup.com/WjsodqpKep.jpg"
+    },
+    {
+      "title":"Sumo 5",
+       "image":"https://cldup.com/wAZxp-KcRs.jpg"
+    },
+    {
+      "title":"Sumo 6",
+       "image":"https://cldup.com/2086_Y9MHD.jpg"
+    },
+	
+	{
+      "title":"Sumo 7",
+       "image":"https://cldup.com/D8fcw5VRpc.jpg"
+    },
+	
+		
+	{
+      "title":"Sumo 8",
+       "image":"https://cldup.com/vL3qUVqQcD.jpg"
+    },
+	
+	{
+      "title":"Sumo 9",
+       "image":"https://cldup.com/gEBrNJpEGF.jpg"
+    },
+	
+	{
+      "title":"Sumo 10",
+       "image":"https://cldup.com/6NFIqVwn8Z.jpg"
+    }
+	
+  ]
+
+}
