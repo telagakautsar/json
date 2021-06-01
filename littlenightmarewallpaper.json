@@ -4,11 +4,11 @@
     "Little", "Night","Mare"
   ],
   "init_jumlah_photo": 150,
-  "pub_id": "pub-7251705005287196",
-  "app_id": "ca-app-pub-7251705005287196~8778641904",
-  "admob_banner_id": "ca-app-pub-7251705005287196/9900151887",
-  "admob_interstitial_id": "ca-app-pub-7251705005287196/9708580199",
-  "admob_native_id": "ca-app-pub-7251705005287196/9517008506",
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -22,11 +22,11 @@
 
   "startapp_app_id": "202998702",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 3,
 
   "list_ads": [
-    "ADMOB",
     "STARTAPP",
+    "ADMOB",
     "FAN"
   ]
 }
