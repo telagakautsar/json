@@ -4,11 +4,11 @@
     "KING VON"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "pub-7251705005287196",
-  "app_id": "ca-app-pub-7251705005287196~9709104916",
-  "admob_banner_id": "ca-app-pub-7251705005287196/9770043967",
-  "admob_interstitial_id": "ca-app-pub-7251705005287196/3139388134",
-  "admob_native_id": "ca-app-pub-7251705005287196/1316838879",
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
 
   "admob_hpk_1": "car",
   "admob_hpk_2": "fashion",
@@ -20,16 +20,13 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "mopub_banner_id": "",
-  "mopub_interstitial_id": "",
-  "mopub_native_id": "",
+  "startapp_app_id": "202259522",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 3,
 
-  "primary_ads": "ADMOB",
   "list_ads": [
+    "STARTAPP",
     "ADMOB",
-    "MOPUB",
     "FAN"
   ]
 }
