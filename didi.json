@@ -4,11 +4,11 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"",
-      "admob_banner":"",
-      "admob_open_ads":"",
+      "admob_inter":"ca-app-pub-7251705005287196/9793286195",
+      "admob_banner":"ca-app-pub-7251705005287196/6428756255",
+      "admob_open_ads":"ca-app-pub-7251705005287196/4540959512",
       "select_ads":"ADMOB",
-      "interval":"",
+      "interval":"7",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
@@ -20,21 +20,65 @@
  
   "Data":
   [
-    {
+        {
       "title":"Puzzle 1",
-      "image":"https://cldup.com/WvYQQdcUFu.jpg"
+      "image":"https://cldup.com/uW2KzpzdP0.jpg"
     },
     {
       "title": "Puzzle 2",
-       "image":"https://cldup.com/zhkVu1W58X.jpg"
+        "image":"https://cldup.com/uZoIo-231M.jpg"
     },
     {
       "title":"Puzzle 3",
-        "image":"https://cldup.com/dRkUWe6knT.jpg"
+         "image":"https://cldup.com/g0XwO468B5.jpg"
     },
     {
       "title":"Puzzle 4",
-       "image":"https://cldup.com/45E8vINb0p.jpg"
+        "image":"https://cldup.com/aNEdtImH0W.jpg"
+    },
+	{
+      "title":"Puzzle 5",
+      "image":"https://cldup.com/-oVwLd7Tb0.jpg"
+    },
+    {
+      "title": "Puzzle 6",
+        "image":"https://cldup.com/nkXm-T-iHO.jpg"
+    },
+    {
+      "title":"Puzzle 7",
+         "image":"https://cldup.com/VHDlI-iquF.jpg"
+    },
+    {
+      "title":"Puzzle 8",
+        "image":"https://cldup.com/lnYgrDxKTp.jpg"
+    },
+	{
+      "title":"Puzzle 9",
+      "image":"https://cldup.com/3FPEs3V8wd.jpg"
+    },
+    {
+      "title": "Puzzle 10",
+        "image":"https://cldup.com/MenTsxjvjq.jpg"
+    },
+    {
+      "title":"Puzzle 11",
+         "image":"https://cldup.com/QwMRNCEx-i.jpg"
+    },
+    {
+      "title":"Puzzle 12",
+        "image":"https://cldup.com/v5drD23f3G.jpg"
+    },
+	{
+      "title":"Puzzle 13",
+      "image":"https://cldup.com/CHCp-HttIc.jpg"
+    },
+    {
+      "title": "Puzzle 14",
+        "image":"https://cldup.com/RMOhTRpwX9.jpg"
+    },
+    {
+      "title":"Puzzle 15",
+         "image":"https://cldup.com/BRv9dSU26v.jpg"
     }
 	
 	
