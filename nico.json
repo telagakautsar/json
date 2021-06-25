@@ -21,21 +21,258 @@
   "Data":
   [
     
-    {
-      "title":"Puzzle 1",
+        {
+      "title":"Niko 1",
        "image":"https://cldup.com/fT56BbC0kv.jpg"
     },
 	{
-      "title":"Puzzle 2",
+      "title":"Niko 2",
        "image":"https://cldup.com/RfScRx2qXL.jpg"
     },
 	{
-      "title": "Puzzle 3",
+      "title": "Niko 3",
       "image":"https://cldup.com/Q1yIOaYCSD.jpg"
     },
     {
-      "title":"Puzzle 4",
+      "title":"Niko 4",
        "image":"https://cldup.com/D7llRk0QMj.jpg"
+    },
+	 {
+      "title":"Niko 5",
+       "image":"https://cldup.com/EpyMcvmRN4.jpg"
+    },
+	{
+      "title":"Niko 6",
+       "image":"https://cldup.com/N2AZvuhItb.jpg"
+    },
+	{
+      "title":"Niko 7",
+       "image":"https://cldup.com/EFXgYVecDx.jpg"
+    },
+	{
+      "title":"Niko 8",
+       "image":"https://cldup.com/ZXeQCIgH36.jpg"
+    },
+	{
+      "title":"Niko 9",
+       "image":"https://cldup.com/IW5_NREfME.jpg"
+    },
+	{
+      "title":"Niko 10",
+       "image":"https://cldup.com/WyGvIp09AU.jpg"
+    },
+	{
+      "title":"Niko 11",
+       "image":"https://cldup.com/N1t1kwHOdh.jpg"
+    },
+	{
+      "title":"Niko 12",
+       "image":"https://cldup.com/VtRv9ew8Xv.jpg"
+    },
+	{
+      "title":"Niko 13",
+       "image":"https://cldup.com/G50CEM0wVS.jpg"
+    },
+	{
+      "title":"Niko 14",
+       "image":"https://cldup.com/wtoOvQfVQx.jpg"
+    },
+	{
+      "title":"Niko 15",
+       "image":"https://cldup.com/JZ040vKrW4.jpg"
+    },
+	{
+      "title":"Niko 16",
+       "image":"https://cldup.com/NcB4fnbxHp.jpg"
+    },
+	{
+      "title":"Niko 17",
+       "image":"https://cldup.com/kcScAmd-TI.jpg"
+    },
+	{
+      "title":"Niko 18",
+       "image":"https://cldup.com/0YJvjcrTCQ.jpg"
+    },
+	{
+      "title":"Niko 19",
+       "image":"https://cldup.com/9m_vz0LB43.jpg"
+    },
+	{
+      "title":"Niko 20",
+       "image":"https://cldup.com/mp_DTf6k6K.jpg"
+    },
+	{
+      "title":"Niko 21",
+       "image":"https://cldup.com/uSHZ8r4GIR.jpg"
+    },
+	{
+      "title":"Niko 22",
+       "image":"https://cldup.com/sjCmRd4erW.jpg"
+    },
+	
+	{
+      "title":"Adley 1",
+      "image":"https://cldup.com/CBhu8xvai3.jpg"
+    },
+    {
+      "title": "Adley 2",
+      "image":"https://cldup.com/SHZWngT42m.jpg"
+    },
+    {
+      "title":"Adley 3",
+       "image":"https://cldup.com/SGYOG3tZbN.jpg"
+    },
+    {
+      "title":"Adley 4",
+      "image":"https://cldup.com/_TYVxvbwur.jpg"
+    },
+    {
+      "title":"Adley 5",
+       "image":"https://cldup.com/52vAqNiMvE.jpg"
+    },
+    {
+      "title":"Adley 6",
+       "image":"https://cldup.com/iH5AmfVJjn.jpg"
+    },
+	
+	{
+      "title":"Adley 7",
+       "image":"https://cldup.com/7iS9VgvkC7.jpg"
+    },
+	
+		
+	{
+      "title":"Adley 8",
+       "image":"https://cldup.com/yZqa5xyHtx.jpg"
+    },
+	{
+      "title":"Adley 9",
+       "image":"https://cldup.com/TZ2xc9txro.jpg"
+    },
+	{
+      "title":"Adley 10",
+       "image":"https://cldup.com/yg9XM43Eig.jpg"
+    },
+	{
+      "title":"Adley 11",
+       "image":"https://cldup.com/gcv6OtunFY.jpg"
+    },
+	{
+      "title":"Adley 12",
+       "image":"https://cldup.com/5uJ3LA3AAF.jpg"
+    },
+	{
+      "title":"Adley 13",
+       "image":"https://cldup.com/OsAuQBu5r0.jpg"
+    },
+	{
+      "title":"Adley 14",
+       "image":"https://cldup.com/GUNRBubJNO.jpg"
+    },
+	{
+      "title":"Adley 15",
+       "image":"https://cldup.com/k4NWDJduUd.jpg"
+    },
+	{
+      "title":"Adley 16",
+       "image":"https://cldup.com/-qo2cqpy1a.jpg"
+    },
+	{
+      "title":"Adley 17",
+       "image":"https://cldup.com/-Cj1x-u6Lj.jpg"
+    },
+	{
+      "title":"Adley 18",
+       "image":"https://cldup.com/c_WxUNaAwu.jpg"
+    },
+	{
+      "title":"Adley 19",
+       "image":"https://cldup.com/e6tovZPKiP.jpg"
+    },
+	{
+      "title":"Adley 20",
+       "image":"https://cldup.com/vkbx3nui69.jpg"
+    },
+	{
+      "title":"Adley 21",
+       "image":"https://cldup.com/FcomM0LFrO.jpg"
+    },
+	{
+      "title":"Adley 22",
+       "image":"https://cldup.com/aKAOIIeLK9.jpg"
+    },
+	{
+      "title":"Adley 23",
+       "image":"https://cldup.com/6g404IWEQd.jpg"
+    },
+	{
+      "title":"Adley 24",
+       "image":"https://cldup.com/X7MgWNuOIV.jpg"
+    },
+	{
+      "title":"Adley 25",
+       "image":"https://cldup.com/gyvPnDk57A.jpg"
+    },
+	{
+      "title":"Adley 26",
+       "image":"https://cldup.com/LgXH7qcX0I.jpg"
+    },
+	{
+      "title":"Adley 27",
+       "image":"https://cldup.com/Waitckl5xV.jpg"
+    },
+	{
+      "title":"Adley 28",
+       "image":"https://cldup.com/4Jxgk3QAF7.jpg"
+    },
+	{
+      "title":"Adley 29",
+       "image":"https://cldup.com/iZSRjdsVA7.jpg"
+    },
+	{
+      "title":"Adley 30",
+       "image":"https://cldup.com/kvrh7Bv3QL.jpg"
+    },
+	{
+      "title":"Adley 31",
+       "image":"https://cldup.com/Qb5ltBIEHC.jpg"
+    },
+	{
+      "title":"Adley 32",
+       "image":"https://cldup.com/jvNdOgZ8IX.jpg"
+    },
+	{
+      "title":"Adley 33",
+       "image":"https://cldup.com/SKivnr9iGY.jpg"
+    },
+	{
+      "title":"Adley 34",
+       "image":"https://cldup.com/iqWASqyAfF.jpg"
+    },
+	
+	{
+      "title":"Adley 35",
+       "image":"https://cldup.com/eJQk-iGm0A.jpg"
+    },
+	{
+      "title":"Adley 36",
+       "image":"https://cldup.com/swiDxcnMZM.jpg"
+    },
+	{
+      "title":"Adley 37",
+       "image":"https://cldup.com/Ih-p_MWC3D.jpg"
+    },
+	{
+      "title":"Adley 38",
+       "image":"https://cldup.com/1yg2VD9CUM.jpg"
+    },
+	{
+      "title":"Adley 39",
+       "image":"https://cldup.com/WB6W4xIu3q.jpg"
+    },
+	{
+      "title":"Adley 40",
+       "image":"https://cldup.com/CYKJ_7PCn4.jpg"
     }
 	
   ]
