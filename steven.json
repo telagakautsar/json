@@ -20,11 +20,11 @@
  
   "Data":
   [
-    {
+        {
       "title":"Steven 1",
       "image":"https://cldup.com/6xlB_-W04P.jpg"
     },
-   {
+    {
       "title":"Steven 2",
        "image":"https://cldup.com/iNwvK0NLBq.jpg"
     },
@@ -36,7 +36,7 @@
       "title":"Steven 4",
         "image":"https://cldup.com/qDNVH7Bv5B.jpg"
     },
-	      {
+	{
       "title":"Steven 5",
        "image":"https://cldup.com/49oH1tzsLe.jpg"
     },
@@ -108,7 +108,7 @@
       "title":"Steven 22",
         "image":"https://cldup.com/Ty3w5q8e_y.jpg"
     },
-	  {
+	{
 	   "title":"Steven 23",
         "image":"https://cldup.com/Bh33YhLtxs.jpg"
     },
@@ -116,7 +116,7 @@
       "title":"Steven 24",
         "image":"https://cldup.com/tzsaBmrMEw.jpg"
     },
-	  {
+	{
 	   "title":"Steven 25",
         "image":"https://cldup.com/VVxCoDouu9.jpg"
     },
@@ -124,7 +124,7 @@
       "title":"Steven 26",
         "image":"https://cldup.com/YjJIx9rwEA.jpg"
     },
-	  {
+	{
 	   "title":"Steven 27",
         "image":"https://cldup.com/NmXBsm3QQn.jpg"
     },
@@ -132,7 +132,7 @@
       "title":"Steven 28",
         "image":"https://cldup.com/ZPLWjOtBJI.jpg"
     },
-	  {
+	{
 	   "title":"Steven 29",
         "image":"https://cldup.com/Ej7MkSMFMT.jpg"
     },
@@ -141,7 +141,6 @@
         "image":"https://cldup.com/9p8VCdRzFj.jpg"
     }
 	  
-	 
 	
   ]
 
