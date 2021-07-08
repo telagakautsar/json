@@ -4,11 +4,11 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"",
-      "admob_banner":"",
-      "admob_open_ads":"",
+      "admob_inter":"ca-app-pub-7251705005287196/7511397894",
+      "admob_banner":"ca-app-pub-7251705005287196/2450642909",
+      "admob_open_ads":"ca-app-pub-7251705005287196/3064245796",
       "select_ads":"ADMOB",
-      "interval":"",
+      "interval":"7",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
@@ -36,6 +36,118 @@
     {
       "title":"Puzzle 4",
         "image":"https://cldup.com/zsM40oTDqx.jpg"
+    },
+	{
+      "title":"Puzzle 5",
+      "image":"https://cldup.com/LWkiAIuu38.jpg"
+    },
+	{
+      "title":"Puzzle 6",
+      "image":"https://cldup.com/5M-SO5r7Mx.jpg"
+    },
+	{
+      "title":"Puzzle 7",
+      "image":"https://cldup.com/Qt-uWaS4cL.jpg"
+    },
+	{
+      "title":"Puzzle 8",
+      "image":"https://cldup.com/fsxtz-Swc3.jpg"
+    },
+	{
+      "title":"Puzzle 9",
+      "image":"https://cldup.com/vafOHLCNtJ.jpg"
+    },
+	{
+      "title":"Puzzle 10",
+      "image":"https://cldup.com/0vBXgV2VZg.jpg"
+    },
+	{
+      "title":"Puzzle 11",
+      "image":"https://cldup.com/4YgcxsfA0E.jpg"
+    },
+	{
+      "title":"Puzzle 12",
+      "image":"https://cldup.com/B7Sbj5nBrU.jpg"
+    },
+	{
+      "title":"Puzzle 13",
+      "image":"https://cldup.com/zQOM5NPoVS.jpg"
+    },
+	{
+      "title":"Puzzle 14",
+      "image":"https://cldup.com/BkmDSIoC9X.jpg"
+    },
+	{
+      "title":"Puzzle 15",
+      "image":"https://cldup.com/NIezS0lrhD.jpg"
+    },
+	{
+      "title":"Puzzle 16",
+      "image":"https://cldup.com/pZIhdphrtl.jpg"
+    },
+	{
+      "title":"Puzzle 17",
+      "image":"https://cldup.com/ZqibOpom9a.jpg"
+    },
+	{
+      "title":"Puzzle 18",
+      "image":"https://cldup.com/_IFvNTg8FK.jpg"
+    },
+	{
+      "title":"Puzzle 19",
+      "image":"https://cldup.com/fhdrLL5NLk.jpg"
+    },
+	{
+      "title":"Puzzle 20",
+      "image":"https://cldup.com/qgvl84loDu.jpg"
+    },
+	{
+      "title":"Puzzle 21",
+      "image":"https://cldup.com/pQ2-EQF1Ga.jpg"
+    },
+	{
+      "title":"Puzzle 22",
+      "image":"https://cldup.com/geJ2sonGm7.jpg"
+    },
+	{
+      "title":"Puzzle 23",
+      "image":"https://cldup.com/hF0SmuNIMn.jpg"
+    },
+	{
+      "title":"Puzzle 24",
+      "image":"https://cldup.com/yCiVY5u-o7.jpg"
+    },
+	{
+      "title":"Puzzle 25",
+      "image":"https://cldup.com/7qsGqfc6Ix.jpg"
+    },
+	{
+      "title":"Puzzle 26",
+      "image":"https://cldup.com/jcNDFfZ48u.jpg"
+    },
+	{
+      "title":"Puzzle 27",
+      "image":"https://cldup.com/Owwl1TtZ-C.jpg"
+    },
+	{
+      "title":"Puzzle 28",
+      "image":"https://cldup.com/y2VRuPuKhq.jpg"
+    },
+	{
+      "title":"Puzzle 29",
+      "image":"https://cldup.com/DUomdzdhnA.jpg"
+    },
+	{
+      "title":"Puzzle 30",
+      "image":"https://cldup.com/Rpf3SjOT_S.jpg"
+    },
+	{
+      "title":"Puzzle 31",
+      "image":"https://cldup.com/TT1mZFQrsz.jpg"
+    },
+	{
+      "title":"Puzzle 32",
+      "image":"https://cldup.com/iHh1ZrdWHw.jpg"
     }
 	
   ]
