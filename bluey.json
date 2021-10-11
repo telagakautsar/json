@@ -3,15 +3,15 @@
   [
     {
       "status_redirect":"",
-      "link_redirect":"",
-      "admob_inter":"",
+      "link_redirect":"1",
+      "admob_inter":"https://play.google.com/store/apps/details?id=com.puzzledev.blueypuzzle",
       "admob_banner":"",
       "admob_open_ads":"",
-      "select_ads":"UNITY",
+      "select_ads":"",
       "interval":"",
-      "unityID":"4153213",
-      "unity_banner":"Baner",
-      "unity_inter":"Insertial",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
       "startappid":""   ,
       "kidoz_pub_id":"",
       "kidoz_token":""
