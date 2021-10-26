@@ -7,12 +7,12 @@
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
-      "select_ads":"STARTAPP",
-      "interval":"",
+      "select_ads":"",
+      "interval":"5",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
-      "startappid":"203183437"   ,
+      "startappid":""   ,
       "kidoz_pub_id":"",
       "kidoz_token":""
     }
