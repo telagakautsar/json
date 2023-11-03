@@ -2,13 +2,13 @@
 "Ads":
   [
     {
-      "status_redirect":"1",
-      "link_redirect":"https://play.google.com/store/apps/details?id=com.savvydev.aforadleypuzzle",
+      "status_redirect":"0",
+      "link_redirect":"",
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
-      "select_ads":"ADMOB",
-      "interval":"7",
+      "select_ads":"APPLOVIN",
+      "interval":"2",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
