@@ -3,12 +3,12 @@
   [
     {
       "status_redirect":"",
-      "link_redirect":"1",
+      "link_redirect":"0",
       "admob_inter":"https://play.google.com/store/apps/details?id=com.puzzledev.blueypuzzle",
       "admob_banner":"",
       "admob_open_ads":"",
-      "select_ads":"",
-      "interval":"",
+      "select_ads":"APPLOVIN",
+      "interval":"2",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
